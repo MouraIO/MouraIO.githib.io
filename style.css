@@ -742,8 +742,6 @@ margin-bottom: 15rem;
   background-color: rgb(182, 182, 182);
   margin: 20px 0; 
 }
-
-
 .final-container {
   padding: 24px 160px;
 }
@@ -823,7 +821,7 @@ margin-bottom: 15rem;
     display: flex;
   }
   .nav-final li a {
-    margin-left: -29rem;
+    margin-left: -28rem;
   }
   .nav-final li {
     gap: 10px;
